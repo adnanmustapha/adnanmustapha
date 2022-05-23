@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adnanmustapha
 - 👀 I’m a UI/UX Designer
-- 💞️ Here's a link to my portfolio LINK
+- 💞️ Here's a link to my portfolio [LINK]([url](https://www.figma.com/proto/ogWEyVPP0bbYuE2A6KaWlu/Portfolio?node-id=37%3A130&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=37%3A130))
 - 📫 How to reach me through email: adnanmustapha16@gmail.com
 
 <!---
